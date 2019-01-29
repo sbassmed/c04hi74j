@@ -7,7 +7,8 @@
 #  status     :integer
 #  created_at :datetime         not null
 #  updated_at :datetime         not null
-#  date       :date
+#  date       :datetime
+#  gate       :integer
 #
 
 require 'test_helper'
